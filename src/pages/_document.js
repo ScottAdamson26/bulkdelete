@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:url" content="https://www.cmsflush.com/" />
         <meta property="og:title" content="CMSFlush" />
         <meta property="og:description" content="A free mass deleter of Webflow CMS collection items" />
-        <meta property="og:image" content="https://scottadamson25.github.io/cmsflush/background.png" />
+        <meta property="og:image" content="https://scottadamson26.github.io/cmsflush/background.png" />
 
         {/* Google Analytics */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-KR3FZ6680V"></script>
