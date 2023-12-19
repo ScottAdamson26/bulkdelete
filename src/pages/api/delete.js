@@ -11,7 +11,7 @@ export default async function handler(req, res) {
     try {
         console.log('Executing Python script...');
         
-        // Spawn a child process to run the Python script
+        // Spawn a child process to run the Python script 2
         const pythonProcess = spawn('python', ['webflowapi.py', apiKey, collectionId]);
         let scriptOutput = '';
 
